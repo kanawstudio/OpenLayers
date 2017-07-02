@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+<Document>
+<name><![CDATA[borr]]></name>
+<Placemark>
+
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-17.867486206714318,28.470586301857995 -17.998224478220028,28.792817118235945 -17.931554274899604,28.868659397157835 -17.87404496963512,28.825822262432936 -17.777341004913307,28.83611365780347 -17.71521306068477,28.732689307206847 -17.775873758854054,28.662582899466663 -17.748816618862627,28.583239926017917 -17.867486206714318,28.470586301857995</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</Placemark>
+</Document>
+</kml>

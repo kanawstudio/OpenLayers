@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+
+    <Point>
+          <coordinates>-17.95437753586675,28.726810725676007</coordinates>
+    </Point>
+
+</Placemark>
+
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.883231225953566,28.810302683964867</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.770453082561048,28.77409738205361</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.78415312091288,28.583035382002773</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.864937590574552,28.569643986967897</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.851077326252675,28.691839399178654</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.915027177077278,28.660173452599416</coordinates></Point>
+</Placemark>
+<Placemark>
+<Style>
+<IconStyle><scale>1</scale><Icon><href>http://visor.grafcan.es/resources/markers/01.png</href></Icon><hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/></IconStyle></Style>
+<Point><coordinates>-17.845393325220392,28.51013617894893</coordinates></Point>
+</Placemark>
+
+</kml>
